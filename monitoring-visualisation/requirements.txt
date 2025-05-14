@@ -1,0 +1,5 @@
+requests==2.32.3
+pyyaml==6.0.2
+
+python-qpid-proton==0.39.0
+prometheus_client==0.21.1
